@@ -17,7 +17,7 @@ Your account and all data will be permanently deleted immediately.
 
 If you no longer have access to the app, send an email to:
 
-**[SUPPORT EMAIL]**
+**maqaam.app@mail.com**
 
 with the subject line **"Account Deletion Request"**, including the email address associated with your account.
 
