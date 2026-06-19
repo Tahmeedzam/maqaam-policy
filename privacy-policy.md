@@ -2,7 +2,7 @@
 
 **Maqaam: Companion for Believers**
 
-Last updated: [DATE]
+Last updated: 19-06-2026
 
 ## Introduction
 
@@ -54,7 +54,7 @@ Your data is stored securely using Supabase, a third-party backend infrastructur
 
 ## Data Retention and Deletion
 
-You may request deletion of your account and all associated data at any time by contacting us at [SUPPORT EMAIL]. We will delete your data within a reasonable timeframe upon request.
+You may request deletion of your account and all associated data at any time by contacting us at maqaam.app@email.com. We will delete your data within a reasonable timeframe upon request.
 
 ## Permissions We Request
 
@@ -76,8 +76,8 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy or your data, please contact us at:
 
-**[SUPPORT EMAIL — PLACEHOLDER]**
+**maqaam.app@email.com**
 
 ---
 
-*This policy was last updated on [DATE].*
+*This policy was last updated on 19-06-2026.*
